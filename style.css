@@ -1,0 +1,41 @@
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+  }
+  header, footer {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+  }
+  header h1 {
+    margin: 0;
+    text-align: center;
+  }
+  footer p {
+    text-align: center;
+    margin: 0;
+  }
+  .highlight {
+    background-color: yellow;
+  }
+  #header {
+    background-color: #4CAF50;
+  }
+  .container p {
+    margin: 10px 0;
+  }
+  ul > li {
+    display: inline;
+    margin-right: 10px;
+  }
+  a[href] {
+    color: #00f;
+    text-decoration: none;
+  }
+  a[href]:hover {
+    color: #f00;
+  }
+  
